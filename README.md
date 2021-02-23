@@ -7,4 +7,4 @@ Ya ini ceritanya mau reduksi data CCD dengan python
 
 Pekerjaan ini oleh Muhammad Ali Syaifudin diberi lisensi CC BY 4.0. Untuk melihat terjemahan detil lisensi dalam Bahasa Indonesia, kunjungi https://creativecommons.org/licenses/by/4.0/deed.id
 
-https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png
+![cc-BY 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
